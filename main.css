@@ -122,14 +122,14 @@
 	bottom: 40px;
 }
 .ramas{
-	width: 130px;
+	width: 180px;
     height: 220px;
     background-color: green;
     -moz-border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
     -webkit-border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
     border-radius: 50% 50% 50% 50% / 60% 60% 40% 40%;
     position: absolute;
-	left: 70px;
+	left: 40px;
 	bottom: 205px;
 }
 .hoja1{
